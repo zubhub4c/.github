@@ -74,14 +74,14 @@ Interface intuitive pour publier vos besoins ou proposer vos services en quelque
 
 <div align="center">
 
-| 🍽️ **Restauration** | 🏠 **Pâtisserie & Glacier** | 👔 **Évènementiel** | 🏃‍♀️ **Mode, Beauté & Bien-être** |
+| 🍽️ **Restauration** | 🧁 **Pâtisserie & Glacier** | 🎉 **Évènementiel** | 💄 **Mode, Beauté & Bien-être** |
 |---------------------------|-------------------|-----------------|------------------------|
-| Africaine | Pâtisserie fine | Organisation d''événement | Mode |
-| Américaine | Gâteau | Décoration | Coûture |
-| Asiatique | Dessert glacé | Traiteur & Boisson | Cordonnerie |
-| Européenne | Pâtisserie diététique | Photographie & Vidéographie | Beauté |
-| Océanique | Pâtisserie salée | Animation | Bien-être |
-| Orientale | Commande personalisée | Logistique & Service | Autres |
+| 🌍 Africaine | 🎂 Pâtisserie fine | 🎪 Organisation d'événement | 👗 Mode |
+| 🍔 Américaine | 🍰 Gâteau | 🎈 Décoration | ✂️ Couture |
+| 🍜 Asiatique | 🍦 Dessert glacé | 🍷 Traiteur & Boisson | 👞 Cordonnerie |
+| 🍕 Européenne | 🥗 Pâtisserie diététique | 📸 Photographie & Vidéographie | 💅 Beauté |
+| 🏝️ Océanique | 🥧 Pâtisserie salée | 🎭 Animation | 🧘‍♀️ Bien-être |
+| 🌶️ Orientale | 🎨 Commande personnalisée | 🚚 Logistique & Service | ➕ Autres |
 
 </div>
 
@@ -173,19 +173,14 @@ Intuitive interface to post your needs or offer your services in just a few clic
 
 <div align="center">
 
-| 🏠 **Home & Garden** | 🎨 **Arts & Creativity** | 👔 **Professional Services** |
-|----------------------|---------------------------|------------------------------|
-| Cleaning & Ironing | Photography | Consulting & Training |
-| Gardening | Sewing & Alterations | Translation |
-| DIY & Repairs | Decoration | Accounting |
-| Painting | Crafts | Graphic Design |
-
-| 🍽️ **Cuisine & Catering** | 🏃‍♀️ **Wellness** | 👶 **Family** |
-|---------------------------|-------------------|----------------|
-| Personal Chef | Massage | Childcare |
-| Cooking Classes | Sports Coaching | Tutoring |
-| Pastry | Yoga | Pet-sitting |
-| Event Catering | Home Hairdressing | Senior Care |
+| 🍽️ **Catering** | 🧁 **Pastry & Ice Cream** | 🎉 **Events** | 💄 **Fashion, Beauty & Wellness** |
+|---------------------------|-------------------|-----------------|------------------------|
+| 🌍 African | 🎂 Fine pastry | 🎪 Event organization | 👗 Fashion |
+| 🍔 American | 🍰 Cake | 🎈 Decoration | ✂️ Sewing |
+| 🍜 Asian | 🍦 Ice cream dessert | 🍷 Catering & Drinks | 👞 Shoe repair |
+| 🍕 European | 🥗 Dietary pastry | 📸 Photography & Videography | 💅 Beauty |
+| 🏝️ Oceanic | 🥧 Savory pastry | 🎭 Animation | 🧘‍♀️ Wellness |
+| 🌶️ Oriental | 🎨 Custom order | 🚚 Logistics & Service | ➕ Others |
 
 </div>
 
