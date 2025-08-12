@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/zubhub4c/.github/blob/main/ressources/logo-zubhub.png" alt="ZubHub Logo" width="200"/>
   
-  # 🚀 ZubHub
   ### *La plateforme qui connecte prestataires et clients*
   ### *The platform that connects service providers and clients*
   
@@ -75,19 +74,14 @@ Interface intuitive pour publier vos besoins ou proposer vos services en quelque
 
 <div align="center">
 
-| 🏠 **Maison & Jardin** | 🎨 **Arts & Créativité** | 👔 **Services Pro** |
-|------------------------|--------------------------|---------------------|
-| Ménage & Repassage | Photographie | Conseil & Formation |
-| Jardinage | Couture & Retouches | Traduction |
-| Bricolage | Décoration | Comptabilité |
-| Peinture | Artisanat | Design graphique |
-
-| 🍽️ **Cuisine & Traiteur** | 🏃‍♀️ **Bien-être** | 👶 **Famille** |
-|---------------------------|-------------------|-----------------|
-| Chef à domicile | Massage | Garde d'enfants |
-| Cours de cuisine | Coaching sportif | Soutien scolaire |
-| Pâtisserie | Yoga | Pet-sitting |
-| Traiteur événements | Coiffure à domicile | Aide aux seniors |
+| 🍽️ **Restauration** | 🏠 **Pâtisserie & Glacier** | 👔 **Évènementiel** | 🏃‍♀️ **Mode, Beauté & Bien-être** |
+|---------------------------|-------------------|-----------------|------------------------|
+| Africaine | Pâtisserie fine | Organisation d''événement | Mode |
+| Américaine | Gâteau | Décoration | Coûture |
+| Asiatique | Dessert glacé | Traiteur & Boisson | Cordonnerie |
+| Européenne | Pâtisserie diététique | Photographie & Vidéographie | Beauté |
+| Océanique | Pâtisserie salée | Animation | Bien-être |
+| Orientale | Commande personalisée | Logistique & Service | Autres |
 
 </div>
 
