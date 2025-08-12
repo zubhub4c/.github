@@ -133,7 +133,7 @@ Interface intuitive pour publier vos besoins ou proposer vos services en quelque
 [![App Store](https://img.shields.io/badge/App%20Store-Bientôt%20disponible-black?style=for-the-badge&logo=apple)](https://apps.apple.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Bientôt%20disponible-green?style=for-the-badge&logo=google-play)](https://play.google.com)
 
-*En attendant, utilisez notre version web sur [zubhub.com](https://zubhub.com)*
+*En attendant, utilisez notre version web sur [zubhub4c.com](https://zubhub4c.com)*
 
 </div>
 
@@ -237,7 +237,7 @@ Intuitive interface to post your needs or offer your services in just a few clic
 [![App Store](https://img.shields.io/badge/App%20Store-Coming%20Soon-black?style=for-the-badge&logo=apple)](https://apps.apple.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Coming%20Soon-green?style=for-the-badge&logo=google-play)](https://play.google.com)
 
-*Meanwhile, use our web version at [zubhub.com](https://zubhub.com)*
+*Meanwhile, use our web version at [zubhub4c.com](https://zubhub4c.com)*
 
 </div>
 
@@ -250,9 +250,9 @@ Intuitive interface to post your needs or offer your services in just a few clic
 **Rejoignez la révolution ZubHub !**  
 **Join the ZubHub revolution!**
 
-📧 Email: [contact@zubhub.com](mailto:contact@zubhub.com)  
-🌐 Site web: [www.zubhub.com](https://zubhub.com)  
-📱 Téléphone: +33 1 XX XX XX XX  
+📧 Email: [contact@zubhub4c.com](mailto:contact@zubhub4c.com)  
+🌐 Site web: [www.zubhub4c.com](https://zubhub4c.com)  
+📱 Téléphone: +33 7 63 34 18 99  
 
 ### Suivez-nous / Follow us
 
